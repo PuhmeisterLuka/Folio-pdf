@@ -6,6 +6,9 @@ I got tired of uploading documents to random PDF websites just to merge two file
 
 Built with Python and CustomTkinter. Made on macOS, should run on Windows too but gets less testing there.
 
+<img width="1102" height="749" alt="compress copy" src="https://github.com/user-attachments/assets/3d212c28-9246-4e5a-b197-42f1b12ebee5" />
+
+
 ## What it does
 
 - Merge: combine PDFs in any order, reorder the list before saving
